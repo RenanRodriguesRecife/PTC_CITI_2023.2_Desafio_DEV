@@ -26,7 +26,7 @@ html, body{
 
 main{
     display: flex;
-    background-image: url(".assets/images/bg.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/a/AVvXsEhSxO0D_xeHzPdJkDwd9PxB6WAthE2oV0b2jKIh0HbZk_KP-FuV_yWrSZFQLS9NPW6zokAGfuduFEZP6tN3gxQ-6ylclaoZ8u8nBqMG-sGMEMDDDgOhgf4aacHZftYLdKkGXnWHaIYEPuTR1x7j111eo7wchHWLOuEyjIZ1he7gVQBF14GfW9-yxgDo2Go3=s1600");
     
     background-color: black;
     background-repeat: no-repeat;
